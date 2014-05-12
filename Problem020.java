@@ -5,6 +5,7 @@ public class Problem20 {
 		
 		String temp = factorial(100).toString();
 		int sum = 0;
+		
 		for(int i = 0; i < temp.length(); i++) {
 			sum += temp.charAt(i) - '0';
 		}
