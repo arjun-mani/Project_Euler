@@ -1,7 +1,7 @@
-<img> http://projecteuler.net/profile/ArjunSub.png <img>
-
 **Project-Euler**
 =================
+
+![Alt text](http://projecteuler.net/profile/ArjunSub.png)
 
 Above is my code to over fifty problems on Project Euler ( http://projecteuler.net/about ) . Most of the solutions are in Java, although I have coded up a few in Python. I hope to expand on this as I solve more problems.
 
