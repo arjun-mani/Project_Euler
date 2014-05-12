@@ -10,8 +10,6 @@ public class Problem3 {
 				if(checkPrime(counter))
 					System.out.println(counter);
 		}
-		
-		
 
 	}
 	
