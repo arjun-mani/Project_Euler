@@ -39,9 +39,6 @@ public class Problem112 {
 			
 			return !nondecreasing && !nonincreasing;
 		}
-		//fuckthisshit
-		//motherfucker holy fuck this shit
-		//this is a bitch
 		
 		
 	}
